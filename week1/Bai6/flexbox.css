@@ -1,0 +1,19 @@
+html, body{
+    margin: 0;
+}
+.nav{
+    min-height: 42px;
+    background-color: #ef5122;
+    display: flex;
+    justify-content: space-between;
+}
+.nav_list{
+    padding-left: 0;
+    margin: auto 16px;
+}
+.nav_item{
+    list-style: none;
+    display: inline-block;
+    color: #fff;
+    margin: 0 8px;
+}
